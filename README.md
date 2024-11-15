@@ -35,7 +35,9 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
     The proxy list will be saved to this file, put your proxy there.
    Proxy Format Must be : http://username:password@host:port
-
+To get free 10 working proxy go to -
+https://www.webshare.io/
+and create an account with free plan then you get your proxies.
 
 ## Access Token and first 8 browserID
 - You can obtain your token and browser id from the [Aigaea Dashboard](https://app.aigaea.net/register?ref=gamBazFEV0g4kt).
