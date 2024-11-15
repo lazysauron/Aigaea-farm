@@ -1,4 +1,4 @@
-## AIGEA BOT USING PROXY [https://app.aigaea.net/](https://app.aigaea.net/register?ref=gamBazFEV0g4kt)
+## AIGEA BOT USING PROXY [https://app.aigaea.net/](https://app.aigaea.net/register?ref=ga9ijWTdewgRsE)
 
 ![banner](image.png)
 
@@ -34,6 +34,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 3. **Create the `proxy.txt` file**:
 
     The proxy list will be saved to this file, put your proxy there.
+   Proxy Format Must be : http://username:password@host:port
 
 
 ## Access Token and first 8 browserID
